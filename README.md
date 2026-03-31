@@ -9,8 +9,6 @@ Deep learning based toll gate traffic prediction and BI dashboard for efficient 
 
 ## Project Contents
 - notebook/: Jupyter notebook for preprocessing, modeling, and evaluation
-- data/: raw and cleaned datasets
-- app/: Python backend source code
 - docs/: dashboard for GitHub Pages
 
 ## Topic
