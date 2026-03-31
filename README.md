@@ -3,7 +3,7 @@
 Deep learning based toll gate traffic prediction and BI dashboard for efficient urban transportation.
 
 ## Quick Access
-- Live Dashboard: https://bi2601eistt-pixel.github.io/DL-TolMonitoring/
+
 - Notebook: ./notebook/DL_TollMonitoring_Final.ipynb
 
 
